@@ -1,2 +1,2 @@
-# LS-DoT
-LS-DoT
+# Los Santos Department of Transportation
+Los Santos Department of Transportation is a RAGE plugin focused on the construction side of Los Santos. With this plugin, you can easily access all items related to construction and transportation! As for now, this is only a plugin; however, I have began development with the LSPDFR API to create callouts - or jobs - for this plugin. Please stay tuned to the Github and LCPDFR page for future updates and releases!
